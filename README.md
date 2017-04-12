@@ -1,5 +1,7 @@
-updated 4/11/2017
-working in python independently for the first time
-data supplied by kaggle - current rank is 2642/6297 - upper 42%
-used logistic regression, random forest, xgb, and neural network
-issues with final predictions for the logistic regression and ensemble neural net at the end
+# Kaggle Titanic Competition
+
+Predicting the likelihood of survival of passengers on board the Titanic.
+
+# History
+
+Used Python exclusively for feature engineering and variable transformations. Current submission is a xgboost model achieving a rank of 2642/6297 as of 4/11/2017.
